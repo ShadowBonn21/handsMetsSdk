@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.YourCompany.handsMetsSdk.OBBDownloaderService;
-import com.YourCompany.handsMetsSdk.DownloaderActivity;
+import com.ndtp.SafetySchool.OBBDownloaderService;
+import com.ndtp.SafetySchool.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.YourCompany.handsMetsSdk.OBBData;
+import com.ndtp.SafetySchool.OBBData;
 
 
 public class DownloadShim

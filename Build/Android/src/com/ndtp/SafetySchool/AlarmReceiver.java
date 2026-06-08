@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.handsMetsSdk;
+package com.ndtp.SafetySchool;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

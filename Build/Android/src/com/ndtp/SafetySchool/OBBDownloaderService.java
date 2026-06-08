@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.handsMetsSdk;
+package com.ndtp.SafetySchool;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.YourCompany.handsMetsSdk.AlarmReceiver.class.getName();
+        return com.ndtp.SafetySchool.AlarmReceiver.class.getName();
     }
 }
